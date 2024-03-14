@@ -1,2 +1,2 @@
-# kong-mesh-quickstart
-Kong Mesh Quickstarter Content and Video Repository
+# Kong Mesh Quickstart
+
